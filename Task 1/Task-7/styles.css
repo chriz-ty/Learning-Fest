@@ -1,0 +1,21 @@
+.one{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color: cadetblue;
+}
+.two{
+    display: flex;
+    width: 100%;
+    background-color: white;
+}
+
+.three{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    height: 800;
+    width: 100%;
+    background-color: darkolivegreen;
+    margin-bottom: 10px;
+}
