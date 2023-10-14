@@ -1,0 +1,14 @@
+.block{
+    height: 50px;
+    width: 400px;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: gray;
+}
+
