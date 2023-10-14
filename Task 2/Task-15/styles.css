@@ -1,6 +1,6 @@
 body{
     background-image: url("bg1.png");
-    object-fit: cover;
+    object-fit: fill;
     display: flex;
     position: relative;
     align-items: center;
