@@ -1,0 +1,33 @@
+.form{
+    height: 750px;
+    width: 750px;
+    position: relative;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    padding: 20px;
+    width: 500px;
+    border: 1px solid #dcd8d8 ;
+}
+
+form h4{
+    text-align: center;
+}
+
+form label{
+    display: block;
+    text-align: center;
+}
+
+form button{
+    border-radius: 5px;
+    border: 0;
+    width: 130px;
+    height: 30px;
+    display: block;
+    margin: 0 auto;
+    background-color: rgb(198 217 217);
+}
