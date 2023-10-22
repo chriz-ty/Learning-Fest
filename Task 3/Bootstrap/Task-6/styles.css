@@ -28,6 +28,11 @@ form button{
     border: 0;
 }
 
+footer{
+    background-color: #c6d7df;
+}
+
+
 body{
     overflow-x: hidden;
     max-width: 100vw;
